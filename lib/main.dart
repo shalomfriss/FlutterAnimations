@@ -1,6 +1,11 @@
 import 'package:anims/app.dart';
 import 'package:flutter/material.dart';
 
+/**
+ * https://material.io/design/motion/understanding-motion.html#principles
+ * https://codelabs.developers.google.com/codelabs/material-motion-flutter#0
+ * https://github.com/flutter/packages/tree/master/packages/animations
+ */
 void main() {
   runApp(MyApp());
 }
